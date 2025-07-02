@@ -1,6 +1,11 @@
-﻿#include <iostream>
+﻿#include "2. 18.h"
+#include <iostream>
+#include <fstream>
+#include <sstream>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	output();
+
+	return 0;
 }
